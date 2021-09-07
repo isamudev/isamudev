@@ -1,5 +1,5 @@
 <p align="center" width="300">
-  <img align="center" width="200" src="https://isamu.dev/assets/img/logo/isamudev.png" />
+  <img align="center" width="180" src="https://isamu.dev/assets/img/logo/isamudev.svg" />
   <h3 align="center">Hey 👋! I'm isamudev 👨🏻‍💻</h3>
 </p>
 
@@ -30,7 +30,7 @@
 ## Main Skills
 - 👨‍💻 JavaScript, Nodejs, PHP (Laravel)
 - ⚙️ Vuejs (NuxtJS), React
-- 👁️ SCSS, CSS
+- 🎨 SCSS, CSS
 - 💽 Postgres SQL, Mongo, MySQL
 
 ## 🔧 Technologies & Tools
