@@ -8,20 +8,20 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/isamudev" target="blank">
-    <img align="center" src="https://unpkg.com/simple-icons@5.13.0/icons/twitter.svg" alt="isamudev" height="28px" width="28px" />
+  <a href="https://www.twitter.com/isamudev">
+    <img align="center" src="https://isamu.dev/assets/img/icons/twitter-40.png" alt="isamudev" height="28px" width="28px" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://facebook.com/isamudev" target="blank">
-    <img align="center" src="https://unpkg.com/simple-icons@5.13.0/icons/facebook.svg" alt="isamudev" height="28px" width="28px" />
+  <a href="https://www.facebook.com/isamudev">
+    <img align="center" src="https://isamu.dev/assets/img/icons/facebook-40.png" alt="isamudev" height="28px" width="28px" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/isamudev" target="blank">
-    <img align="center" src="https://unpkg.com/simple-icons@5.13.0/icons/instagram.svg" alt="isamudev" height="28px" width="28px" />
+  <a href="https://www.instagram.com/isamudev">
+    <img align="center" src="https://isamu.dev/assets/img/icons/instagram-40.png" alt="isamudev" height="28px" width="28px" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitch.tv/isamudev" target="blank">
-    <img align="center" src="https://unpkg.com/simple-icons@5.13.0/icons/twitch.svg" alt="isamudev" height="28px" width="28px" />
+  <a href="https://www.twitch.tv/isamudev">
+    <img align="center" src="https://isamu.dev/assets/img/icons/twitch-40.png" alt="isamudev" height="28px" width="28px" />
   </a>
 </p>
 
