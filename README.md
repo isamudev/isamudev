@@ -1,6 +1,6 @@
 <p align="center" width="300">
   <img align="center" width="180" src="https://isamu.dev/assets/img/logo/isamudev.svg" />
-  <h3 align="center">Hey 👋! I'm isamudev 👨🏻‍💻</h3>
+  <h3 align="center">Hey 👋! I'm Isamu 👨🏻‍💻</h3>
 </p>
 
 <p align="center">
