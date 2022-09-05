@@ -1,5 +1,5 @@
 <p align="center" width="300">
-  <img align="center" width="180" src="https://isamu.dev/assets/img/logo/isamudev.svg" />
+  <img align="center" width="180" src="https://isamu.dev/assets/img/isamudev.svg" />
   <h3 align="center">Hey 👋! I'm Isamu 👨🏻‍💻</h3>
 </p>
 
