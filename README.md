@@ -1,6 +1,6 @@
 <p align="center" width="300">
-  <img align="center" width="180" src="https://isamu.dev/assets/img/isamudev.svg" />
-  <h3 align="center">Hey 👋! I'm Isamu 👨🏻‍💻</h3>
+  <img align="center" width="180" src="https://isamu.dev/assets/img/logo/isamudev.svg" />
+  <h3 align="center">Hey 👋! I'm Luis Suárez 👨🏻‍💻</h3>
 </p>
 
 <p align="center">
@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.twitter.com/isamudev">
-    <img align="center" src="https://isamu.dev/assets/img/icons/twitter-40.png" alt="isamudev" height="28px" width="28px" />
+  <a href="https://x.com/isamudev">
+    <img align="center" src="https://api.iconify.design/bi:twitter-x.svg" alt="isamudev" height="28px" width="28px" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/isamudev">
